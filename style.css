@@ -26,3 +26,6 @@ body{
 button:hover{
     background-color: red;
 }
+h1{
+    margin-left: 8rem;
+}
