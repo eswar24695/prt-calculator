@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+    margin-left: 32rem;
+    margin-top: 16rem;
+}
+#parent{
+    margin: 1px auto ;
+    
+}
+#input{
+    width:24.7rem;
+    height:2rem;
+    border: 1px solid black;
+}
+#allbuttons{
+    width:25rem;
+    height: 12rem;
+    display: grid;
+    grid-template-columns: auto auto auto; 
+}
+.eachbutton{
+    background-color: blue;
+    color: white;
+    border:1px solid white;
+}
+button:hover{
+    background-color: red;
+}
